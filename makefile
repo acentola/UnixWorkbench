@@ -1,5 +1,5 @@
 README.md: guessinggame.sh
-	echo "##UnixWorkbench" > README.md
+	echo "## UnixWorkbench" > README.md
 	printf "\n" >> README.md
 	echo "Current time and date:" >> README.md
 	date >>README.md
